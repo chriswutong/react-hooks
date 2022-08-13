@@ -5,7 +5,15 @@ import ReactDOM from 'react-dom/client';
 // import App from './03-App-useState3';
 // import App from './04-App-useState4';
 // import App from './05-App-useEffect';
-import App from './06-App-useRef';
+// import App from './06-App-useRef';
+// import App from './07-App-useReducer';
+// import App from './08-App-useContext';
+// import App from './09-App-redux';
+import App from './10-App-useCallback-useMemo';
+
+
+
+
 
 
 
