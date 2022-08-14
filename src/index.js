@@ -9,11 +9,11 @@ import ReactDOM from 'react-dom/client';
 // import App from './07-App-useReducer';
 // import App from './08-App-useContext';
 // import App from './09-App-redux';
-import App from './10-App-useCallback-useMemo';
-
-
-
-
+// import App from './10-App-useCallback-useMemo';
+// import App from './11-App-ref';
+// import App from './12-App-useImperativeHandle';
+// import App from './13-App-useLayoutEffect';
+import App from './14-App-useDebugValue.jsx';
 
 
 
